@@ -1,4 +1,4 @@
-# E-Commerce Customer Segmentation & Retention Analytics
+# Customer Segmentation & Retention Analytics
 
 ## Project Overview
 It is significantly more expensive to acquire a new customer than to retain an existing one. This project analyzes a transactional dataset of over 500,000 records to identify distinct customer purchasing behaviors and segment them using machine learning. The goal is to allow businesses to launch targeted marketing campaigns and identify at-risk customers before they churn.
